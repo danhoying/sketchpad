@@ -1,0 +1,22 @@
+#container {
+    width: 560px;
+    height: 560px;
+    background-color: #C0C0C0;
+  	margin: 0 auto;
+}
+
+.square {
+	float: left;
+	clear: right;
+}	
+
+#buttons {
+	text-align: center;
+	height: 35px;
+}
+
+#info {
+	text-align: center;
+	height: 30px;
+	font-size: 20px;
+}
